@@ -1,11 +1,14 @@
 {
 
-"Metadata":{
+"Metadata":
+{
 "Name":"My Jarona",
 "UniqueID": "Nog_Fowery_Deltarune_Character",
 "Author":"Noggin",
 "Description": "Play flowery in Sonic3AIR!!",
-"ModVersion": "0.0.1"
+"ModVersion": "0.0.1",
+"GameVersion": "23.04.02.0"
+
 }
 
 }
