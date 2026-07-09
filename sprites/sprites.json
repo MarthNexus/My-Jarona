@@ -1,0 +1,8 @@
+{
+"character_sonic_0x48": { "File": "flowery/spr_flowery_idle2_0.bmp","Rect": "0,0,26,60", "Center": "15,37" },	
+"character_sonic_0x56": { "File": "flowery/spr_flowery_idle2_0.bmp","Rect": "0,0,26,60", "Center": "15,37" },	
+"character_sonic_0x8c": { "File": "flowery/spr_flowery_hurt_0.bmp", "Rect": "0,0,46,60", "Center": "23,30" },
+"character_sonic_0x8d": { "File": "flowery/spr_flowery_hurt_0.bmp", "Rect": "0,0,46,60", "Center": "23,30" },
+"character_sonic_0xba": { "File": "flowery/spr_flowery_idle2_0.bmp","Rect": "0,0,26,60", "Center": "15,37" }
+
+}
