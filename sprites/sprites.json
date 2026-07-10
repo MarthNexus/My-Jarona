@@ -1,8 +1,36 @@
 {
-"character_sonic_0x48": { "File": "flowery/spr_flowery_idle2_0.bmp","Rect": "0,0,26,60", "Center": "15,37" },	
-"character_sonic_0x56": { "File": "flowery/spr_flowery_idle2_0.bmp","Rect": "0,0,26,60", "Center": "15,37" },	
+"character_sonic_0x01": { "File": "flowery/walk/spr_flowery_walk_right_1.bmp","Rect": "0,0,20,59", "Center": "15,36" },
+"character_sonic_0x02": { "File": "flowery/walk/spr_flowery_walk_right_1.bmp","Rect": "0,0,20,59", "Center": "15,36" },
+"character_sonic_0x03": { "File": "flowery/walk/spr_flowery_walk_right_2.bmp","Rect": "0,0,20,59", "Center": "15,36" },
+"character_sonic_0x04": { "File": "flowery/walk/spr_flowery_walk_right_3.bmp","Rect": "0,0,20,59", "Center": "15,36" },
+"character_sonic_0x05": { "File": "flowery/walk/spr_flowery_walk_right_3.bmp","Rect": "0,0,20,59", "Center": "15,36" },
+
+"character_sonic_0x06": { "File": "flowery/walk/spr_flowery_walk_right_3.bmp","Rect": "0,0,20,59", "Center": "15,36" },
+"character_sonic_0x07": { "File": "flowery/walk/spr_flowery_walk_right_0.bmp","Rect": "0,0,20,59", "Center": "15,36" },
+
+"character_sonic_0x08": { "File": "flowery/walk/spr_flowery_walk_right_1.bmp","Rect": "0,0,20,59", "Center": "15,36" },
+"character_sonic_0x21": { "File": "flowery/run/spr_flowery_run_0.bmp","Rect": "0,0,46,44", "Center": "23,22" },
+"character_sonic_0x22": { "File": "flowery/run/spr_flowery_run_1.bmp","Rect": "0,0,46,44", "Center": "23,22" },
+"character_sonic_0x23": { "File": "flowery/run/spr_flowery_run_2.bmp","Rect": "0,0,46,44", "Center": "23,22" },
+"character_sonic_0x24": { "File": "flowery/run/spr_flowery_run_3.bmp","Rect": "0,0,46,44", "Center": "23,22" },
+"character_sonic_0x48": { "File": "flowery/spr_flowery_idle2_0.bmp","Rect": "0,0,26,60", "Center": "15,37" },
+"character_sonic_0x55": { "File": "flowery/idlepos/spr_flowery_right_0.bmp","Rect": "0,0,20,59", "Center": "10,36" },	
+"character_sonic_0x56": { "File": "flowery/idlepos/spr_flowery_idle2_0.bmp","Rect": "0,0,26,60", "Center": "15,37" },	
+"character_sonic_0x57": { "File": "flowery/idlepos/spr_flowery_idle2_0.bmp","Rect": "0,0,26,60", "Center": "15,37" },	
+
+"character_sonic_0x58": { "File": "flowery/idlepos/spr_flowery_down_0.bmp","Rect": "0,0,26,61", "Center": "15,38" },	
+
+"character_sonic_0x59": { "File": "flowery/idlepos/spr_flowery_upleft_0.bmp","Rect": "0,0,22,61", "Center": "12,38" },	
+
+"character_sonic_0x5a": { "File": "flowery/idlepos/spr_flowery_upleft_0.bmp","Rect": "0,0,22,61", "Center": "12,38" },	
+
+"character_sonic_0x5b": { "File": "flowery/idlepos/spr_flowery_up_0.bmp","Rect": "0,0,20,57", "Center": "10,36" },	
 "character_sonic_0x8c": { "File": "flowery/spr_flowery_hurt_0.bmp", "Rect": "0,0,46,60", "Center": "23,30" },
 "character_sonic_0x8d": { "File": "flowery/spr_flowery_hurt_0.bmp", "Rect": "0,0,46,60", "Center": "23,30" },
+"character_sonic_0xb0": { "File": "flowery/spr_flowery_pose_0.bmp","Rect": "0,0,44,58", "Center": "15,33" },
+"character_sonic_0xb1": { "File": "flowery/spr_flowery_pose_0.bmp","Rect": "0,0,44,58", "Center": "15,33" },
+"character_sonic_0xb2": { "File": "flowery/spr_flowery_pose_0.bmp","Rect": "0,0,44,58", "Center": "15,33" },
+"character_sonic_0xb3": { "File": "flowery/spr_flowery_pose_0.bmp","Rect": "0,0,44,58", "Center": "15,33" },
 "character_sonic_0xba": { "File": "flowery/spr_flowery_idle2_0.bmp","Rect": "0,0,26,60", "Center": "15,37" }
 
 }
