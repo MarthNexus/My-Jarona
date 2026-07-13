@@ -1,0 +1,43 @@
+
+global u8 fvoice.actEnd = 0x00
+
+
+function void detectActFinish()
+{
+
+if (global.zone != 0x0c) 
+{
+
+if (global.act == 0x00) 
+{
+// "hah! its my jarona!"
+ fvoice.actEnd = 0x00
+}
+else
+{
+//"what a predictable creature!"
+ fvoice.actEnd = 0x01
+}
+
+}
+
+}
+
+function void playVoice(u8 clipNum)
+{
+
+if (clipNum == 0x0f)
+{
+
+if (fvoice.actEnd == 0x00)
+{
+Audio.playAudio("its_my_jarona",1)
+}
+
+if (fvoice.actEnd == 0x01)
+{
+Audio.playAudio("predictable",1)
+}
+
+}
+}

@@ -1,0 +1,18 @@
+include ./voiceclips
+
+global u64 ftick
+
+//something isnt right with this function
+function void onUpdateFrame()
+{
+Audio.playAudio("predictable")
+
+    base.onUpdateFrame()	
+
+ if (u8[0xfff72a] >= 0x02)
+	{
+        detectActFinish()
+	playVoice(0x0f)
+	}
+    
+}

@@ -1,0 +1,6 @@
+{
+"sonic_peelout_0": { "File": "flowery/run/spr_flowery_run_0.bmp","Rect": "0,0,46,44", "Center": "23,22" },
+"sonic_peelout_1": { "File": "flowery/run/spr_flowery_run_1.bmp","Rect": "0,0,46,44", "Center": "23,22" },
+"sonic_peelout_2": { "File": "flowery/run/spr_flowery_run_2.bmp","Rect": "0,0,46,44", "Center": "23,22" },
+"sonic_peelout_3": { "File": "flowery/run/spr_flowery_run_3.bmp","Rect": "0,0,46,44", "Center": "23,22" }
+}
