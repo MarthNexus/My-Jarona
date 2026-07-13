@@ -39,10 +39,15 @@
 "character_sonic_0x5b": { "File": "flowery/idlepos/spr_flowery_up_0.bmp","Rect": "0,0,20,57", "Center": "10,36" },	
 "character_sonic_0x8c": { "File": "flowery/spr_flowery_hurt_0.bmp", "Rect": "0,0,46,60", "Center": "23,30" },
 "character_sonic_0x8d": { "File": "flowery/spr_flowery_hurt_0.bmp", "Rect": "0,0,46,60", "Center": "23,30" },
-"character_sonic_0xb0": { "File": "flowery/spr_flowery_pose_0.bmp","Rect": "0,0,44,58", "Center": "15,33" },
+"character_sonic_0x9b": { "File": "flowery/crouch/spr_flowery_kneel_0.bmp","Rect": "0,0,29,47", "Center": "12,24" },
+"character_sonic_0x9c": { "File": "flowery/crouch/spr_flowery_kneel_0.bmp","Rect": "0,0,29,47", "Center": "12,24" },
+
+"character_sonic_0xb0": { "File": "flowery/spr_flowery_pose_0.bmp","Rect": "0,0,44,58", "Center": "15,34" },
 "character_sonic_0xb1": { "File": "flowery/spr_flowery_pose_0.bmp","Rect": "0,0,44,58", "Center": "15,33" },
 "character_sonic_0xb2": { "File": "flowery/spr_flowery_pose_0.bmp","Rect": "0,0,44,58", "Center": "15,33" },
 "character_sonic_0xb3": { "File": "flowery/spr_flowery_pose_0.bmp","Rect": "0,0,44,58", "Center": "15,33" },
-"character_sonic_0xba": { "File": "flowery/spr_flowery_idle2_0.bmp","Rect": "0,0,26,60", "Center": "15,37" }
+"character_sonic_0xba": { "File": "flowery/spr_flowery_idle2_0.bmp","Rect": "0,0,26,60", "Center": "15,37" },
+"character_sonic_0xc3": { "File": "flowery/lookUp/spr_flowery_lookup_0.bmp","Rect": "0,0,22,61", "Center": "11,38" },
+"character_sonic_0xc4": { "File": "flowery/lookUp/spr_flowery_lookup_1.bmp","Rect": "0,0,22,61", "Center": "11,38" }
 
 }
